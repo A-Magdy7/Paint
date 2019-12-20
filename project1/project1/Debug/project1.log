@@ -1,0 +1,43 @@
+﻿Build started 5/8/2017 10:43:06 AM.
+     1>Project "E:\WorkSpace\WorkSpace_Visual\project1\project1\project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\project1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt project1.cpp
+         project1.cpp
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(326): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(341): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(342): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(352): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(361): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(400): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(417): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(434): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(441): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(512): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(537): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(539): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(540): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(581): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(600): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(604): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(719): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(721): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(733): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(735): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(841): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(1027): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(1034): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(1041): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(1048): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(1085): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>e:\workspace\workspace_visual\project1\project1\project1.cpp(1093): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\WorkSpace\WorkSpace_Visual\project1\Debug\project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\WorkSpace\WorkSpace_Visual\project1\Debug\project1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\WorkSpace\WorkSpace_Visual\project1\Debug\project1.lib" /MACHINE:X86 Debug\project1.res
+         Debug\File.obj
+         Debug\project1.obj
+         Debug\stdafx.obj
+         project1.vcxproj -> E:\WorkSpace\WorkSpace_Visual\project1\Debug\project1.exe
+     1>Done Building Project "E:\WorkSpace\WorkSpace_Visual\project1\project1\project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.08
